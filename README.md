@@ -8,7 +8,6 @@ This project demonstrates data modeling, Power Query transformations, DAX calcul
 
 ## 📸 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
 
 ![Dashboard Overview](Images/dashboard-overview.png)
 
