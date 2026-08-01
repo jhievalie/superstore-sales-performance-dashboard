@@ -149,12 +149,11 @@ Planned enhancements include:
 
 **Jomar Pajenago**
 
-Bachelor of Public Administration  
 Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/jhievalie
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/jomarp21/
 
 ---
 
