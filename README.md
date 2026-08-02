@@ -16,7 +16,7 @@ This project demonstrates data modeling, Power Query transformations, DAX calcul
 
 Interactive dashboard built using Microsoft Power BI.
 
-![Dashboard Overview](Images/dashboard-overview.png)
+![Superstore Sales Performance Dashboard](Images/dashboard-overview.png)
 
 ### Sales Trend
 
@@ -191,6 +191,6 @@ Aspiring Data Analyst passionate about Business Intelligence, Data Visualization
 
 ---
 
-⭐ If you found this project interesting, consider giving it a star on GitHub.
+⭐ If you found this project useful or interesting, consider giving it a star on GitHub.
 
 Made with ❤️ using Microsoft Power BI, DAX, and Power Query.
