@@ -193,4 +193,4 @@ Aspiring Data Analyst passionate about Business Intelligence, Data Visualization
 
 ⭐ If you found this project useful or interesting, consider giving it a star on GitHub.
 
-Made with ❤️ using Microsoft Power BI, DAX, and Power Query.
+Made with ❤️ using Microsoft Power BI, DAX, Power Query, and GitHub.
