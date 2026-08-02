@@ -1,5 +1,10 @@
 # 📊 Superstore Sales Performance Dashboard
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
 An interactive **Sales Performance Dashboard** built with **Microsoft Power BI** to analyze retail sales performance using the **Sample Superstore** dataset.
 
 This project demonstrates data modeling, Power Query transformations, DAX calculations, and dashboard design following Power BI best practices.
@@ -9,15 +14,27 @@ This project demonstrates data modeling, Power Query transformations, DAX calcul
 ## 📸 Dashboard Preview
 
 
+Interactive dashboard built using Microsoft Power BI.
+
 ![Dashboard Overview](Images/dashboard-overview.png)
+
+### Sales Trend
+
+![Sales Trend](Images/sales-trend.png)
+
+### Top Products
+
+![Top Products](Images/top-products.png)
 
 ---
 
 ## 📌 Project Overview
 
-The dashboard provides business users with an interactive overview of sales performance across different regions, customer segments, product categories, and time periods.
+This interactive Power BI dashboard provides business users with a comprehensive view of retail sales performance across different regions, customer segments, product categories, and time periods.
 
-It was designed to answer common business questions such as:
+It was designed to help decision-makers monitor sales performance, identify trends, evaluate regional performance, and discover high-performing products and customers through interactive visualizations.
+
+### Business Questions Answered
 
 - 💰 How much revenue was generated?
 - 📦 How many orders were placed?
@@ -25,6 +42,18 @@ It was designed to answer common business questions such as:
 - 🌎 Which regions perform best?
 - 🛍 Which products generate the highest sales?
 - 👥 Who are the top customers?
+
+---
+
+## 🎯 Business Objectives
+
+This dashboard was developed to help decision-makers:
+
+- Monitor overall sales performance
+- Identify top-performing products and customers
+- Compare sales across regions and categories
+- Analyze sales trends over time
+- Support data-driven business decisions
 
 ---
 
@@ -115,19 +144,26 @@ Documentation:
 
 ## 🛠 Built With
 
-- Microsoft Power BI Desktop
-- Power Query
-- DAX (Data Analysis Expressions)
+| Tool | Purpose |
+|------|---------|
+| Microsoft Power BI Desktop | Dashboard Development |
+| Power Query | Data Cleaning & Transformation |
+| DAX | Business Calculations |
+| GitHub | Version Control & Portfolio |
 
 ---
 
 ## 📂 Dataset
 
-This project uses the **Sample Superstore** dataset.
+This project uses the publicly available **Sample Superstore** dataset.
 
-The dataset is **not included** in this repository to respect the original dataset owner's distribution terms.
+The dataset is **not included** in this repository to respect the original author's distribution terms.
 
 Please download the dataset from its original source and place it inside the `Dataset` folder before opening the Power BI report.
+
+Dataset Source:
+
+- Kaggle – Sales Forecasting Dataset by Rohit Sahoo: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 ---
 
@@ -148,14 +184,13 @@ Planned enhancements include:
 
 **Jomar Pajenago**
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+Aspiring Data Analyst passionate about Business Intelligence, Data Visualization, SQL, and Process Automation.
 
-GitHub: https://github.com/jhievalie
-
-LinkedIn: https://www.linkedin.com/in/jomarp21/
+- GitHub: https://github.com/jhievalie
+- LinkedIn: https://www.linkedin.com/in/jomarp21/
 
 ---
 
-## ⭐ Support
+⭐ If you found this project interesting, consider giving it a star on GitHub.
 
-If you found this project helpful, consider giving it a ⭐ on GitHub.
+Made with ❤️ using Microsoft Power BI, DAX, and Power Query.
