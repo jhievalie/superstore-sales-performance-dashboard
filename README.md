@@ -163,7 +163,7 @@ Please download the dataset from its original source and place it inside the `Da
 
 Dataset Source:
 
-- Kaggle – Sales Forecasting Dataset by Rohit Sahoo: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+- [Sales Forecasting Dataset by Rohit Sahoo (Kaggle)](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
 ---
 
@@ -186,8 +186,8 @@ Planned enhancements include:
 
 Aspiring Data Analyst passionate about Business Intelligence, Data Visualization, SQL, and Process Automation.
 
-- GitHub: https://github.com/jhievalie
-- LinkedIn: https://www.linkedin.com/in/jomarp21/
+- GitHub: [jhievalie](https://github.com/jhievalie)
+- LinkedIn: [Jomar Pajenago](https://www.linkedin.com/in/jomarp21/)
 
 ---
 
